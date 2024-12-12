@@ -31,7 +31,6 @@ Virtual Memory: Max Size:  34,633 MB
 Virtual Memory: Available: 21,489 MB
 
 Virtual Memory: In Use:    13,144 MB
-
 ```
 Page File Location(s):     C:\pagefile.sys
 Domain:                    networksupport.local
@@ -61,7 +60,7 @@ Network Card(s):           2 NIC(s) Installed.
                                  DHCP Enabled:    No
                                  IP address(es)
                                  [01]: 192.168.56.1
-                                 [02]: fe80::e407:d7df:8a15:fab0
+                                 [02]: fe80::e407:d7df:8a15:fa
 ```
 
 
